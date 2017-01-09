@@ -1,0 +1,5 @@
+C:\Users\es y02\Desktop\VS2013 Project\gitTestProject\gitTestProject\bin\Debug\gitTestProject.exe
+C:\Users\es y02\Desktop\VS2013 Project\gitTestProject\gitTestProject\bin\Debug\gitTestProject.pdb
+C:\Users\es y02\Desktop\VS2013 Project\gitTestProject\gitTestProject\obj\Debug\gitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\es y02\Desktop\VS2013 Project\gitTestProject\gitTestProject\obj\Debug\gitTestProject.exe
+C:\Users\es y02\Desktop\VS2013 Project\gitTestProject\gitTestProject\obj\Debug\gitTestProject.pdb
